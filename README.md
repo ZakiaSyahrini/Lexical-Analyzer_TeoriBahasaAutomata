@@ -1,0 +1,2 @@
+# Lexical-Analyzer_TeoriBahasaAutomata
+Lexical analyzer adalah tahapan pertama yang dilakukan pada compiler. Proses yang dilakukan pada tahapan ini adalah membaca program sumber karakter per karakter. Satu atau lebih (deretan) karakter karakter ini dikelompokkan menjadi suatu kesatuan mengikuti pola kesatuan kelompok karakter (token) yang ditentukan dalam bahasa sumber dan disimpan dalam table simbol, sedangkan karakter yang tidak mengikuti pola akan dilaporkan sebagai token tak dikenal.
